@@ -1,17 +1,22 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=F44E3F"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9400D3"/>
+<div>
+<div>
+<div align="center">
+
+# Eae! 🤙
+
+Olá, meu nome é Julio Grahl
+
+Numero de acessos:  
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJulioGrahl&s=40&c=9400D3&bg=00000000&no=2&ff=digi&tb=&ta=" />
+</div>
+</div>
+
 
 <div align="center">
-  <samp>
-    <b>
-      Hello
-    </b>
-      <br>
-      Hi there! I'm Julio Grahl
-      <br>
-  </samp>
+  <img src="https://www.purplecowinternet.com/static/Dancing_Cow-a5ffbde74b037a4dfdbcdabdd536d068.gif" width="500">
 </div>
-<div align="center">
-  <p align="center">Visits: <br> <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJulioGrahl&s=40&c=da4e4e&bg=00000000&no=2&ff=digi&tb=&ta=" /></p> 
+
 </div>
       
 <!--      
@@ -35,20 +40,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api/?username=kamillyvm&show_icons=true&count_private=true&rank_icon=github&theme=tokyonight&font=Iosevka"
+    src="https://github-readme-stats.vercel.app/api?username=JulioGrahl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false&locale=pt-BR"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGrahl&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&locale=pt-BR"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioGrahl&theme=graywhite&locale=pt-BR"
   />
   <br>
   <br>
@@ -56,22 +61,19 @@
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=tokyonight&card_width=885"
+    src="https://github-readme-streak-stats.herokuapp.com?user=JulioGrahl&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=940"
   />
   </div>
 
 <div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="40" src="https://skillicons.dev/icons?i=php" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Matlab-Dark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+  <img width="40" src="https://skillicons.dev/icons?i=vscode" />
   
 </div>
 
@@ -82,38 +84,21 @@
 <div align="center">
   <samp>
     <b>
-      Contact me:
+      Fale comigo:
     </b>
   </samp>
   <br>
   <br>
 
-  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-2e3440?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8kc8HqXVw2)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
+  [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:juliograhl@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/julio_grahl/?next=%2F)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-2e3440?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5547992740612)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/julio-max-grahl/)
   
-</div>
-
-<div align="center">
-
-<p align="center">
-      <samp>
-        ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⊹
-        <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⊹
-        <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⊹
-        <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
-      </samp>
-  </p>
-
 </div>
 
 ##
 
 </details>
 
-<br>
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6fa3fa&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=100&section=footer"/>
