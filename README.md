@@ -1,24 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=9400D3"/>
-<div>
-<div>
-<div align="center">
-<!--  
-# Eae! 🤙-->
-<!--  
-Olá, meu nome é Julio Grahl-->
-<!--  
-Numero de acessos:  
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJulioGrahl&s=40&c=9400D3&bg=00000000&no=2&ff=digi&tb=&ta=" />
-</div>
-</div>-->
-
-
-<div align="center">
-  <img src="https://www.purplecowinternet.com/static/Dancing_Cow-a5ffbde74b037a4dfdbcdabdd536d068.gif" width="500">
-</div>
-
-</div>
-      
 <!--      
 <div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
@@ -30,10 +9,6 @@ Numero de acessos:
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
 </div>
 -->
-
-<br>
-  
-  <br>
 
 <div align="center">
   <img
@@ -48,20 +23,14 @@ Numero de acessos:
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGrahl&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&locale=pt-BR"
   />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JulioGrahl&theme=graywhite&locale=pt-BR"
-  />
+
   <br>
   <br>
   <img
     height=154
     align="center"
     alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=JulioGrahl&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=940"
+    src="https://github-readme-streak-stats.herokuapp.com?user=JulioGrahl&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=950"
   />
   </div>
 
