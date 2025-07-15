@@ -47,22 +47,22 @@
 
 <a href="https://juliograhl.github.io/LandingRMC/" target="_blank">
   <img src="https://i.imgur.com/wxSj8c0.jpeg?text=Landing+RMC" alt="Landing RMC"
-       style="border-radius:10;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+       style="border-radius:10;margin:5px;border:2px solid #8A2BE2;width:260px;height:180px;">
 </a>
 
 <a href="https://juliograhl.github.io/LandingAdvEua/" target="_blank">
   <img src="https://i.imgur.com/uM2SNkV.jpeg?text=Landing+Adv+EUA" alt="Landing Adv EUA"
-       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:260px;height:180px;">
 </a>
 
 <a href="https://juliograhl.github.io/Delivery/" target="_blank">
   <img src="https://i.imgur.com/xWKcMwF.jpeg?text=Delivery" alt="Delivery"
-       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:260px;height:180px;">
 </a>
 
 <a href="https://juliograhl.github.io/ClicCardapio/" target="_blank">
   <img src="https://i.imgur.com/uVRw3Sk.jpeg?text=Clic+Cardapio" alt="Clic Cardápio"
-       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:260px;height:180px;">
 </a>
 
 </div>
