@@ -43,7 +43,7 @@
 
 </div>
 
-<div align="center">
+<div align="center" style="padding:100px;">
 
 <a href="https://juliograhl.github.io/LandingRMC/" target="_blank">
   <img src="https://i.imgur.com/wxSj8c0.jpeg?text=Landing+RMC" alt="Landing RMC"
