@@ -35,6 +35,38 @@
   />
   </div>
 
+<div align="center" >
+
+## 🟣 Alguns Projetos Front‑End 🟣
+
+<br>
+
+</div>
+
+<div align="center">
+
+<a href="https://juliograhl.github.io/LandingRMC/" target="_blank">
+  <img src="https://i.imgur.com/wxSj8c0.jpeg?text=Landing+RMC" alt="Landing RMC"
+       style="border-radius:10;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+</a>
+
+<a href="https://juliograhl.github.io/LandingAdvEua/" target="_blank">
+  <img src="https://i.imgur.com/uM2SNkV.jpeg?text=Landing+Adv+EUA" alt="Landing Adv EUA"
+       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+</a>
+
+<a href="https://juliograhl.github.io/Delivery/" target="_blank">
+  <img src="https://i.imgur.com/xWKcMwF.jpeg?text=Delivery" alt="Delivery"
+       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+</a>
+
+<a href="https://juliograhl.github.io/ClicCardapio/" target="_blank">
+  <img src="https://i.imgur.com/uVRw3Sk.jpeg?text=Clic+Cardapio" alt="Clic Cardápio"
+       style="border-radius:10px;margin:5px;border:2px solid #8A2BE2;width:240px;height:180px;">
+</a>
+
+</div>
+
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://skillicons.dev/icons?i=php" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
