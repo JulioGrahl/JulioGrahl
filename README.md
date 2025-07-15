@@ -13,12 +13,14 @@
 <div align="center">
   <img
     height=165
+    width=300
     align="center"
     alt="GitHub Stats"
     src="https://github-readme-stats.vercel.app/api?username=JulioGrahl&theme=midnight-purple&show_icons=true&hide_border=true&count_private=false&locale=pt-BR"
   />
   <img
     height=165
+    width=300
     align="center"
     alt="Top Language"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioGrahl&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&locale=pt-BR"
