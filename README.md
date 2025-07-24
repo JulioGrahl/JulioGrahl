@@ -27,12 +27,7 @@
 
   <br>
   <br>
-  <img
-    height=154
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-streak-stats.herokuapp.com?user=JulioGrahl&theme=midnight-purple&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&card_width=950"
-  />
+
   </div>
 
 <div align="center" >
